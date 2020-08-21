@@ -30,7 +30,7 @@
                             <input class="form-control form_size" type="password" name="username" placeholder="Kata Sandi" required>
                         </div>
                         <p style="font-size: 14px;">
-                            <a href=""> Lupa akun ? </a>
+                            <a href="">Lupa akun ?</a>
                         </p>
                         <div class="form-group">
                             <button type="submit" name="login" class="btn btn-lg btn_abu btn-block" style="border-radius: 10px; font-weight: bold;">Login</button>

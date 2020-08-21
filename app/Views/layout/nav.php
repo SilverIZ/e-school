@@ -9,7 +9,7 @@
                 <img src="<?= base_url(); ?>/template/dist/img/user2-160x160.jpg" class="img-circle elevation-2 mt-2" alt="User Image">
             </div>
             <div class="inpoh">
-                <a href="#" class="link text-light">Administrator</a>
+                <span>Administrator</span>
             </div>
         </div>
 
